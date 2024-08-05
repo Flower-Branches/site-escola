@@ -1,25 +1,44 @@
-
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-.cabecalho{ 
-    background-color: rgba(67, 3, 243, 0.397); 
-    color: #000;
+.cabecalho {
+    background-color: #271780;
+    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
- }
+}
 
 .cabecalho-imagem{
-    width: 20%;
-
+    width: 15%;
 }
 
 .cabecalho-lista-item{
-      display: inline-block;
-      margin: 0 16px;
-      font-size: 24px;
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+
+.loja-roupa-imagem{
+    width: 24%;
+}
+
+.loja{
+  background-image: linear-gradient(#271780,rgb(221, 221, 255));
+  color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 0;
+}
+
+.loja-div-conteudo{
+   width: 35%;
+}
+
+.loja-titulo{
+    padding: 24px 0;
 }
