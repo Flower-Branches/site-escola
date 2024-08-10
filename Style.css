@@ -3,6 +3,9 @@
     padding: 0%;
 }
 
+body {
+    font-family: lato, sans-serif;
+}
 .cabecalho {
     background-color: #7f16d1;
     color: black;
@@ -32,7 +35,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 34px 0;
+    padding: 24px 0;
 }
 
 .Boutique-div-conteudo {
