@@ -45,3 +45,31 @@ body {
 .Boutique-titulo {
     padding: 24px 0;
 }
+
+.Roupas {
+    padding: 24px 0;
+}
+
+.Roupas-imagem {
+    width: 120px;
+}
+
+.Roupas-div {
+    text-align: center;
+    padding: 16px 0;
+}
+
+.Roupas {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20% 20%;
+}
+
+.rodape {
+    background-color: #7f16d1;
+    text-align: center;
+}
+
+.rodape-imagem {
+    height: 60px;
+    padding: 12px 0;
+}
